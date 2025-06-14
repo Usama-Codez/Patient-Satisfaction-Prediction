@@ -63,12 +63,12 @@ This project explores how doctor experience, fees, wait times, and other metrics
 
 ## 🔄 How to Run the Project
 
-### 1. ⚙️ Set up the environment
+### 1. Set up the environment
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/patient-satisfaction-prediction.git
-cd patient-satisfaction-prediction
+git clone https://github.com/Usama-Codez/Patient-Satisfaction-Prediction.git
+cd Patient-Satisfaction-Prediction
 ```
 Create & activate a virtual environment
 ```bash
