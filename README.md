@@ -47,8 +47,6 @@ This project explores how doctor experience, fees, wait times, and other metrics
   - Fee (PKR)
   - Target label (Satisfaction: Satisfied / Unsatisfied)
 
-> ✅ All preprocessing steps are saved to: `preprocessed_doctors_dataset.csv`
-
 ---
 
 ## 🧪 Algorithms & Tools Used
