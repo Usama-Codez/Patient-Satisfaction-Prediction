@@ -1,6 +1,6 @@
 # 🏥 Patient Satisfaction Prediction using Machine Learning
 
-> 🚀 Patient Satisfaction Prediction is a machine learning project that predicts **patient satisfaction** levels using doctor related metrics. Designed with efficiency, clarity, and model benchmarking in mind, complete with automated evaluation.
+Patient Satisfaction Prediction is a machine learning project that predicts **patient satisfaction** levels using doctor related metrics. Designed with efficiency, clarity, and model benchmarking in mind, complete with automated evaluation.
 
 ---
 
@@ -158,7 +158,6 @@ Precision: 0.94
 Recall: 0.80
 F1 Score: 0.86
 ROC-AUC: 0.5284166970913959
-🔍 Model Comparison (LazyPredict)
 
 ### Confusion Matrix Decision Tree:
 ![image](https://github.com/user-attachments/assets/ed0b8254-47f4-4bef-bec7-842790785659)
@@ -204,24 +203,8 @@ Fitting 3 folds for each of 108 candidates, totalling 324 fits
 Best Parameters: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}
 Best Cross-Validation Accuracy: 0.9363507779349364
 
-### Test Set Evaluation:
-Accuracy: 94.16
-Classification Report:
-              precision    recall  f1-score   support
 
-           0       0.67      0.12      0.21        33
-           1       0.94      1.00      0.97       498
-
-    accuracy                           0.94       531
-   macro avg       0.81      0.56      0.59       531
-weighted avg       0.93      0.94      0.92       531
-
-Confusion Matrix:
-[[  4  29]
- [  2 496]]
-
-
-### ❤ Author: Usama Akram
+### Author: Usama Akram
 
 ### 📌 License
 This project is licensed under the MIT License.
