@@ -16,7 +16,7 @@ This project explores how doctor experience, fees, wait times, and other metrics
 
 ## 🧠 Features
 
-- ✅ Handles missing values automatically
+- ✅ Handles missing values automatically 
 - 📐 Normalizes numerical data using `MinMaxScaler`
 - ⚖️ Balances dataset using **SMOTE**
 - 🧪 Trains multiple classifiers including:
